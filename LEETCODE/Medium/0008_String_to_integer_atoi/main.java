@@ -5,7 +5,7 @@
 // It parses the given string into a signed integer while handling whitespaces, optional signs,
 // numeric characters, and integer overflow/underflow according to the rules provided.
 
-class Solution {
+class main {
     public int myAtoi(String s) {
         int i = 0;             // Pointer to traverse the string
         int sign = 1;          // Default sign is positive
